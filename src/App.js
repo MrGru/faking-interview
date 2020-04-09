@@ -1,17 +1,16 @@
 import React from "react";
 import "./App.css";
 import data from "./mock";
+import Card from "./component/Card";
+import Card2 from "./component/Card2";
 
 function App() {
+  console.log("render App");
   return (
     <div>
       {data.map((value, index) => {
-        return (
-          <div className="card" key={index}>
-            <p className="container">{value.question}</p>
-            <p className="container">{value.answer}</p>
-          </div>
-        );
+        return <Card2 key={index} index={index} value={value} />;
+        // return Card({ key: { index }, value: { value } });
       })}
     </div>
   );
