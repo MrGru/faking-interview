@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/faking-interview/static/css/main.e844aa3a.chunk.css",
+    "main.js": "/faking-interview/static/js/main.e11b2341.chunk.js",
+    "main.js.map": "/faking-interview/static/js/main.e11b2341.chunk.js.map",
+    "runtime-main.js": "/faking-interview/static/js/runtime-main.d45f3d5d.js",
+    "runtime-main.js.map": "/faking-interview/static/js/runtime-main.d45f3d5d.js.map",
+    "static/js/2.3096d216.chunk.js": "/faking-interview/static/js/2.3096d216.chunk.js",
+    "static/js/2.3096d216.chunk.js.map": "/faking-interview/static/js/2.3096d216.chunk.js.map",
+    "index.html": "/faking-interview/index.html",
+    "precache-manifest.490393771c09bf511a1477db28fa89ab.js": "/faking-interview/precache-manifest.490393771c09bf511a1477db28fa89ab.js",
+    "service-worker.js": "/faking-interview/service-worker.js",
+    "static/css/main.e844aa3a.chunk.css.map": "/faking-interview/static/css/main.e844aa3a.chunk.css.map",
+    "static/js/2.3096d216.chunk.js.LICENSE.txt": "/faking-interview/static/js/2.3096d216.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d45f3d5d.js",
+    "static/js/2.3096d216.chunk.js",
+    "static/css/main.e844aa3a.chunk.css",
+    "static/js/main.e11b2341.chunk.js"
+  ]
+}
