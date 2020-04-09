@@ -10,7 +10,6 @@ const Card = React.memo((props) => {
   };
   const styleButton = collapse ? "collapsible" : "collapsible active";
   const styleContent = collapse ? "100%" : null;
-
   return (
     <div className="card">
       <button
