@@ -25,4 +25,55 @@ const data = [
   },
 ];
 
-export default data;
+const menu = [
+  {
+    id: 1,
+    menu: "Algorithm",
+    child: [
+      {
+        id: 1,
+        menu: "sort",
+      },
+      {
+        id: 2,
+        menu: "search",
+      },
+    ],
+  },
+  {
+    id: 2,
+    menu: "Programming language",
+    child: [
+      {
+        id: 1,
+        menu: "Java",
+      },
+      {
+        id: 2,
+        menu: "Java script",
+      },
+      {
+        id: 3,
+        menu: "Python",
+      },
+    ],
+  },
+  {
+    id: 2,
+    menu: "Chó Hùng 01",
+  },
+  {
+    id: 2,
+    menu: "Chó Hiếu 01",
+  },
+  {
+    id: 2,
+    menu: "Chó Tuấn 01",
+  },
+  {
+    id: 2,
+    menu: "Web khó vl",
+  },
+];
+
+export default { menu, data };
